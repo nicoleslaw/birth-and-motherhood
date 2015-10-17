@@ -2,7 +2,7 @@
 
 Things that worked for me.
 
-## Clothing Items
+## Clothing
 
 * Gap Maternity Pure Body Tees and Tanks
 * Gap Maternity Lightweight Modal Sleep Nightie
