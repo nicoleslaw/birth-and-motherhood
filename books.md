@@ -10,6 +10,7 @@
 * Operating Instructions: A Journal of My Son’s First Year, Anne Lamott
 * More Home Cooking: A Writer Returns to the Kitchen, Laurie Colwin
 * A Life’s Work: On Becoming a Mother, Rachel Cusk
+* Great With Child: Letters to a Young Mother, Beth Ann Fennelly
 
 ## Fiction
 * Dept. of Speculation, Jenny Offill
