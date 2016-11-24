@@ -43,11 +43,13 @@
 * Eggs
 * Yogurt
 * Soy / almond / hemp milk
-* Soy cheese
 * Hummus
 * Pickles
 * Sauerkraut
-* Soy pudding
+* Vegan cheese
+* Vegan sour cream
+* Vegan cream cheese
+* Vegan pudding
 * Tofu
 * Tortillas
 
@@ -113,7 +115,7 @@
 * Pizza crust
 * Corn tortillas
 * Wraps
-* Ice cream
+* Vegan ice cream
 * Bread
 * Bagels
 * Blueberry waffles
