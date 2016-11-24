@@ -48,3 +48,35 @@
 * Pickles
 * Sauerkraut
 * Soy pudding
+* Tofu
+* Tortillas
+
+## Pantry
+
+### Breakfast
+* Granola
+* Granola bars
+* Whole Os
+* Applesauce
+
+### Canned goods
+* Refried beans
+* Black beans
+* Tomatoes
+* Tomato paste
+* Tomato sauce
+
+### Bulk section
+* Nut butters
+* Lentils
+* Brown rice
+* Jasmine rice
+* Steel cut oats
+* Dried cranberries
+* Dried mango
+* Apple rings
+* Raw cashews
+* Raw walnuts
+* Pumpkin seeds
+* Hemp seeds
+* Flax seeds
