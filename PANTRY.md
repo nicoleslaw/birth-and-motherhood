@@ -35,7 +35,7 @@
 * Bacon
 * DF salami
 * Roasted turkey breast
-* Chicken meatballs
+* Mini meatballs
 * Beef hotdogs
 * Apple and chicken sausages
 
@@ -58,6 +58,16 @@
 * Granola bars
 * Whole Os
 * Applesauce
+* GF toaster pastries
+* Baby puffs
+* Baby crackers
+* Baby pouch snacks
+
+### Oils
+* Olive oil
+* Rice bran oil
+* Sesame oil
+* Coconut oil
 
 ### Canned goods
 * Refried beans
@@ -65,6 +75,20 @@
 * Tomatoes
 * Tomato paste
 * Tomato sauce
+* Chicken broth
+* Bouillon
+* Nutritional yeast
+
+### Dry goods
+* GF pasta
+* Rice noodles
+* Quinoa
+
+### Snacks
+* Rice crackers
+* Corn chips
+* Medium salsa
+* Potato chips
 
 ### Bulk section
 * Nut butters
@@ -80,3 +104,19 @@
 * Pumpkin seeds
 * Hemp seeds
 * Flax seeds
+* Popcorn
+
+## Frozen foods
+* Frozen broccoli
+* Frozen peas
+* Chicken tenders
+* Pizza crust
+* Corn tortillas
+* Wraps
+* Ice cream
+* Bread
+* Bagels
+* Blueberry waffles
+* Frozen blueberries
+* Frozen peaches
+* Frozen mango
