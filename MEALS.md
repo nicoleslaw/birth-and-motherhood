@@ -15,6 +15,7 @@ _Quick favorites for tired home cooks._
 * Beans and rice
 * Lentils and rice
 * Broccoli and rice
+* Chana masala
 
 ## Pasta
 * Garlicky noodles
@@ -24,7 +25,13 @@ _Quick favorites for tired home cooks._
 ## Meat dishes
 * Spaghetti and meat sauce
 * Sloppy toast
-* Chicken tenders and fries
 * Beef tacos
 * Enchilada pie
+* Shepherd's pie
 * Broccoli and beef
+* Beef stew
+* Steak frites
+* Roasted chicken
+* Chicken tenders and fries
+
+
