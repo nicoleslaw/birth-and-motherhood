@@ -19,7 +19,7 @@ _Quick favorites for tired home cooks._
 
 ## Pasta
 * Garlicky noodles
-* Pasta and pea
+* Pasta and peas
 * Lasagne
 
 ## Meat dishes
