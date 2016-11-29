@@ -4,18 +4,22 @@ _Quick favorites for tired home cooks._
 * Yogurt and granola
 * Bagel with hummus
 * Scrambled eggs and potato wedges
-* Steel cut oats with walnuts
+* Steel cut oats with nuts and fresh fruit
 
 ## Soups
 * Lentil soup
 * Black eye peas and bacon soup
 * Potato soup
+* Tomato soup
+* Roasted corn soup
 
 ## Rice dishes
 * Beans and rice
 * Lentils and rice
 * Broccoli and rice
 * Chana masala
+* Veggie taco bowls
+* Fried rice
 
 ## Pasta
 * Garlicky noodles
